@@ -7,7 +7,7 @@
 /// <reference types="tree-sitter-cli/dsl" />
 
 module.exports = grammar({
-  name: 'yaml',
+  name: 'yaml_k8s',
 
   /* eslint-disable no-multi-spaces */
   /* eslint-disable indent */
