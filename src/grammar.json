@@ -1,6 +1,6 @@
 {
   "$schema": "https://tree-sitter.github.io/tree-sitter/assets/schemas/grammar.schema.json",
-  "name": "yaml_k8s",
+  "name": "yamlk8s",
   "rules": {
     "stream": {
       "type": "SEQ",
